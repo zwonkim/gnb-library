@@ -1,5 +1,5 @@
 {
-  "name": "@zwonkim/gnb-library",
+  "name": "@zwonkim/gnblibrary",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
@@ -21,6 +21,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@zwonkim:registry": "https://npm.pkg.github.com"
+    "@zwonkimm:registry": "https://npm.pkg.github.com"
   }
 }
